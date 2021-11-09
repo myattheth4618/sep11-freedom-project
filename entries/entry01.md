@@ -5,7 +5,7 @@
   
   I am on the very first step of the EDP(Engineering Design Process) which is defining the problem of my my project. I stated in the first paragraph of my ideas and showing my goal, intent and plan working towards the end of the project. I am thinking of how the data and tool will be a perfect pair for my type of project innovation. I am planning to dig deeper and research around my problem and move towards my goal in the next entry/step. 
  
-  I learned the skill of problem decomposition by breaking down the importance of water intake(my topic). I brainstormed how I will utilize the data to put up the demonstration of average water intake in the US.I also thought about why it might be important for me as an individual and also just might partially help others through my project.
+  I learned the skill of problem decomposition by breaking down the importance of water intake(my topic). I brainstormed how I will utilize the data to put up the demonstration of average water intake in the US.I also thought about why it might be important for me as an individual and also just might partially help others through my project. I hope I can learn a lot more skills in the upcoming entries.
 
 
 
