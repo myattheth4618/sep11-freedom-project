@@ -1,6 +1,7 @@
 # Entry 3
 ##### 2/13/2022
 
+## Codes Understood
 In this entry, I will be talking about my progress in learning my tool for my freedom project: d3.js. I will talk through my process of trying to create a visual graph but a small sample one as I learn.
 
 I found used the same tutorial I linked in my previous entry which is this extremely helpful youtube [video](https://youtu.be/aHJCt2adSWA) because I like the way of teaching it offers: a slow and understandable explanation I can follow. It had some starter code which made my learning way more smoother than starting the whole thing from scratch as I am a beginner. On that note, I cloned a repo with some starter code to help me on this journey.
@@ -65,6 +66,11 @@ This code decides where the axis will be located in what format and if the label
 
 Through this I got really very familiar with the format and the usage of really crucial functions of the d3 program and how to use them. However, I am unclear about some but I will evantually learn more and more as I dive deeper into the tool I chose.
 
+## Engineering Design Process
+I think it is kind of a little early to say I am past stage 3 since I am really just putting all my effort into learning and getting used to the code, one step at a time. I think I am still studying and examining; I am getting there step by step using tutorials and models. I believe I will soon be around 3 and 4 in no time as I continue to understand the magic behind the bar graphs which I intend to finish up my freedom project with.
+
+## Skills
+I learned the skills of how to read and embracing failure. I learned how to read through finding the right source and the correct set of sample codes referred in the video I watched. I carefully compared all the different lines of code to extinguish the starter line I have to use to follow along with the instructions in the video. I also learned to embrace failure because I forgot a set of codes to include for it to fully function and at that moment, instead of being frustrated, I tried my best to find the solution as fast as I can. 
 
 [Previous](entry02.md) | [Next](entry04.md)
 
