@@ -7,13 +7,6 @@ const WATER_DATA = [
   { id: 'd6', value: 1, region: 'Dishwasher' },
 ];
 
-// const WATER_DATA = [
-//   { id: 'd1', value: 10, region: 'Elders' },
-//   { id: 'd2', value: 11, region: 'Middle Ages' },
-//   { id: 'd3', value: 12, region: 'Children' },
-//   { id: 'd4', value: 6, region: 'Teens' },
-// ];
-
 
 const MARGINS = {top:20, bottom:10}
 const CHART_WIDTH = 600;
