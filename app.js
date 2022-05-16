@@ -58,28 +58,3 @@ chart
   
   
   
-  
-  
-// const xScale = d3
-//   .scaleBand()
-//   .domain(WATER_DATA.map((dataPoint) => dataPoint.region))
-//   .rangeRound([0, 250])
-//   .padding(0.1);
-// const yScale = d3.scaleLinear().domain([0, 15]).range([200, 0]);
-
-// const container = d3.select('svg').classed('container', true);
-
-// const bars = container
-//   .selectAll('.bar')
-//   .data(WATER_DATA)
-//   .enter()
-//   .append('rect')
-//   .classed('bar', true)
-//   .attr('width', xScale.bandwidth())
-//   .attr('height', (data) => 200 - yScale(data.value))
-//   .attr('x', data => xScale(data.region))
-//   .attr('y', data => yScale(data.value));
-
-// setTimeout(() => {
-//   bars.data(WATER_DATA.slice(0, 2)).exit().remove();
-// }, 2000);
