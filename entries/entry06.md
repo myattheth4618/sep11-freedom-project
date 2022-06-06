@@ -13,6 +13,9 @@ I think my Engineering Design Process is at the end as I conclude my SEP11 cours
 ## skills
 I learned growth mindset and attention to detail during the presentations. I learned to have patience with learning about presentations and a lot more. I also put a lot of attention to details in my presentation so I could deliver my content the most effectively. I learned to be patient and perservere through all this so that I can better my presentations in the future and be more successful at delivering my projects.
 
+## sources: 
+[SEP11 NOTES](https://docs.google.com/document/d/1CjgsMOs94k3pk1_XJgJDYDqhtiB6xNl2TtgfjwiYQ6A/edit?usp=sharing)
+[PRESENTATION](https://docs.google.com/presentation/d/1xb3xtU3EMNWnCDgdWLJCvLLWKAVYEPaSPLNToJHCwRc/edit?usp=sharing)
 
 
 [Previous](entry05.md)
