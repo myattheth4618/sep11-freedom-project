@@ -7,6 +7,13 @@ I learned a lot of things throughout this experience: presenting, tips, communic
 ## reflection and takeaways from in-class presentation
 I personally feel like I learned a lot from this in-class presentation. It taught me a lot of things about presentations. I got feedback about the presence, hook, the quality of the presentation and the interactivity about them. My presentation was not bad but it could simply just be bettered by improving my eye contact, presence, tone, the materials, which slide should come where for the attraction of the audience. It was really a great experience. I really enjoyed presenting in class because I got to showcase and explain in depth about my project and codes. The coordination of slides and explanations, more advice on presentations were things I really appreciate because it helped me present better than I could have in other clases. My main takeaways were that I could do more and manipulate my presentation to better my performance.
 
+## EDP
+I think my Engineering Design Process is at the end as I conclude my SEP11 course. Thus, I am at the very step 8 which is comunicating my results because I have, after all, presented and pitched my project to the judges, teacher and classmates. I have successfully finished creating my project final product and I proudly presented during the past weeks.
+
+## skills
+I learned growth mindset and attention to detail during the presentations. I learned to have patience with learning about presentations and a lot more. I also put a lot of attention to details in my presentation so I could deliver my content the most effectively. I learned to be patient and perservere through all this so that I can better my presentations in the future and be more successful at delivering my projects.
+
+
 
 [Previous](entry05.md)
 
